@@ -4,11 +4,11 @@
 
 **Approach:** I employed a two-pronged approach to comprehensively understand the restaurant: first, summarizing its key offerings and overall concept, and second, identifying its most distinct and noteworthy highlights.
 
-**Approach 1**: Sentiment Analysis and Text Summarization
+**Approach 1:** Sentiment Analysis and Text Summarization
     Sentiment Analysis: We employed VADER sentiment analysis to categorize reviews into positive and negative sentiments.
     Text Summarization: Subsequently, we performed text summarization on the positive and negative reviews separately, yielding comprehensive summaries that              encapsulate both positive and negative aspects of the restaurant.
 
-**Approach 2**: Topic Modeling and Detailed Sentiment Analysis
+**Approach 2:** Topic Modeling and Detailed Sentiment Analysis
     Data Cleaning: Reviews were meticulously cleaned by converting text to lowercase, removing punctuation and emojis, and applying lemmatization.
     Topic Modeling: Utilizing Latent Dirichlet Allocation (LDA), we identified four primary topics: food, service, ambience, and price.
     Sentiment Analysis: We conducted sentiment analysis using BERT, which provided positive and negative sentiments for each identified topic.

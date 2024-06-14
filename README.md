@@ -2,7 +2,7 @@
 
 **Problem Statement:** We discovered that patrons of a certain restaurant frequently ponder what to order. To address this, we conducted a comprehensive analysis of customer reviews.
 
-**Appraoch:** I employed a two-pronged approach to comprehensively understand the restaurant: first, summarizing its key offerings and overall concept, and second, identifying its most distinct and noteworthy highlights.
+**Approach:** I employed a two-pronged approach to comprehensively understand the restaurant: first, summarizing its key offerings and overall concept, and second, identifying its most distinct and noteworthy highlights.
 
 **Approach 1**: Sentiment Analysis and Text Summarization
     Sentiment Analysis: We employed VADER sentiment analysis to categorize reviews into positive and negative sentiments.

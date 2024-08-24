@@ -1,4 +1,4 @@
-# Project Name: Flavourful Insights
+# Project Name: Flavourful Insights: Unravelling Google Restaurant Reviews using Advanced NLP Techniques
 
 **Problem Statement:** 
 We discovered that patrons of a certain restaurant frequently ponder what to order. To address this, we conducted a comprehensive analysis of customer reviews.
